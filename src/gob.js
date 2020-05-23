@@ -7,10 +7,10 @@ let gob = {
             return "/api/" 
         }
         if(window.location.href.includes("youhuiduo.cn")){
-            return "https://gate.youhuiduo.cn/sy_38_queen/"
+            return "https://xxxxx/"
         }
         if(window.location.href.includes("ujinbi.com")){
-            return "https://gate.ujinbi.com/sy_38_queen/"
+            return "https://xxxxxx/"
         }
     },
     webUrl:function(){
@@ -18,10 +18,10 @@ let gob = {
             return ""
         }
         if(window.location.href.includes("youhuiduo.cn")){
-            return "https://web.youhuiduo.cn/sy_queen_2019/#/"
+            return "https://xxxxx/#/"
         }
         if(window.location.href.includes("ujinbi.com")){
-            return "http://web.ujinbi.com/sy_queen_2019/#/"
+            return "http://xxxxx/#/"
         }
     },
     getUjinbiUrl:function(){
